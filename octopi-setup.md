@@ -63,34 +63,34 @@ control panel to resolve the letterboxing.
 
 ### Printer Profiles
 1. Type A Machines Series 1 Pro
-  * Print bed & build volume
-    * Width - `305mm`
-    * Depth - `305mm`
-    * Height - `305mm`
-  * Hotend & extruder
-    * Nozzle Diameter - `0.4mm`
+    * Print bed & build volume
+        * Width - `305mm`
+        * Depth - `305mm`
+        * Height - `305mm`
+    * Hotend & extruder
+        * Nozzle Diameter - `0.4mm`
 2. Lulzbot Taz 6
-  * Print bed & build volume
-    * Width - `280mm`
-    * Depth - `280mm`
-    * Height - `250mm`
-  * Hotend & extruder
-    * Nozzle Diameter - `0.5mm`
+    * Print bed & build volume
+        * Width - `280mm`
+        * Depth - `280mm`
+        * Height - `250mm`
+    * Hotend & extruder
+        * Nozzle Diameter - `0.5mm`
 3. Lulzbot Mini
-  * Print bed & build volume
-    * Width - `152mm`
-    * Depth - `152mm`
-    * Height - `158mm`
-  * Hotend & extruder
-    * Nozzle Diameter - `0.5mm`
+    * Print bed & build volume
+        * Width - `152mm`
+        * Depth - `152mm`
+        * Height - `158mm`
+    * Hotend & extruder
+        * Nozzle Diameter - `0.5mm`
 
 ### Connection Settings
 1. Type A Machines Series 1 Pro
-  * Serial Port - `/dev/ttyACM0`
-  * Baudrate - `230400`
+    * Serial Port - `/dev/ttyACM0`
+    * Baudrate - `230400`
 2. Lulzbot Taz 6
-  * Serial Port - `/dev/ttyACM0`
-  * Baudrate - `250000`
+    * Serial Port - `/dev/ttyACM0`
+    * Baudrate - `250000`
 3. Lulzbot Mini
-  * Serial Port - `/dev/ttyACM0`
-  * Baudrate - `115200`
+    * Serial Port - `/dev/ttyACM0`
+    * Baudrate - `115200`
