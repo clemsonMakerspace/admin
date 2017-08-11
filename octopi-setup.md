@@ -19,16 +19,18 @@ Each of these three printers require slightly different settings in Octoprint.
 
 There are a few general steps to setting up a new install of Octoprint.
 
-1. Download and flash the most recent version of Octopi onto an SD card
+1. [Download and flash](https://octopi.octoprint.org/) the most recent version
+    of Octopi onto an SD card
 2. Install the SD card in the Raspberry Pi and connect it to the Webcam, the
     printer, ethernet, and the power supply
-3. SSH into `pi@octopi.local` with password `raspberry` and change the hostname
-    (and optionally adjust the webcam settings for the Type A Machines)
-4. Adjust the Printer Profile settings
-5. Adjust the Connection settings
+3. SSH into `pi@octopi.local` with password `raspberry` and
+    [change the hostname](#octoprint-hostname-and-title) (and optionally adjust
+    the [webcam settings](#webcam-settings) for the Type A Machines)
+4. Adjust the [Printer Profile settings](#printer-profiles)
+5. Adjust the [Connection settings](#connection-settings)
 6. Start printing!
 
-### Octoprint Hostname & Title
+### Octoprint Hostname and Title
 By default, the Octopi distro has a hostname of `octopi`. This means that you
 will have to connect to it by pointing your browser or SSH client to
 `octopi.local`. With a large number of printers on the network this is
