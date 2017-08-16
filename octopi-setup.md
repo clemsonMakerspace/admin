@@ -68,7 +68,7 @@ control panel to resolve the letterboxing.
         * Depth - `305mm`
         * Height - `305mm`
     * Axes
-        * Z Axis Invert Control
+        * Z Axis - `Invert Control`
     * Hotend & extruder
         * Nozzle Diameter - `0.4mm`
 2. Lulzbot Taz 6
