@@ -10,6 +10,8 @@
 | Izzy Gebhart  | 59.08         | 12                      |
 | Owen Phillips | 71.00         | 4                       |
 
+`The above hours do not include any time to setup before or cleanup after a shift. This is not reflective of real life.`
+
 We have 8 remaining weeks to hit our Dec 1st closing date.  
 Target to hit is 160 hours total. If you are at 60 hours now that means you will have to do 12.5 hours /week.  
 These hours include all Makerspace activities - work, meetings, training, and UPIC assignments. Make sure to log all hours that you work, and plan to stop immediately when you hit 160.  
