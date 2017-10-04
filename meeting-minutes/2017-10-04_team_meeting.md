@@ -29,6 +29,10 @@ December 8th is last day to log hours, submit assignments, and complete final ev
 - Any updates from Alice w/ regard to updating training to include print log?
 - Camera cables are in the mail and should be here soon
 
+## Laser Cutter Lens & Mirror Cleaning
+- The lenses on the laser cutter need to be cleaned frequently
+- Plan to make it a part of daily setup or cleanup procedure
+
 ## SLA
 - [x] Alis Zamiar
 - [x] Alton O'Neal
