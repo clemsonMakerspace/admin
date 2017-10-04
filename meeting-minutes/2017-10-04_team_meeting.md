@@ -5,7 +5,7 @@
 |---------------|---------------|-------------------------|
 | Alis Zamiar   | 58.92         | 11                      |
 | Alton O'Neal  | 57.68         | 10.75                   |
-| Chip Miller   |               | 11                      |
+| Chip Miller   | 71.95         | 11                      |
 | Cole DeMarco  |               | 9.25                    |
 | Izzy Gebhart  | 59.08         | 12                      |
 | Owen Phillips | 71.00         | 4                       |
