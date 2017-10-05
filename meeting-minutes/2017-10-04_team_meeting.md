@@ -6,7 +6,7 @@
 | Alis Zamiar   | 58.92         | 11                      |
 | Alton O'Neal  | 57.68         | 10.75                   |
 | Chip Miller   | 71.95         | 11                      |
-| Cole DeMarco  |               | 9.25                    |
+| Cole DeMarco  | 59.50         | 9.25                    |
 | Izzy Gebhart  | 59.08         | 12                      |
 | Owen Phillips | 71.00         | 4                       |
 
@@ -53,7 +53,7 @@ We have a limited selection of resins available for students to use. If they wou
 
 
 ## CNC
-- [x] Alis Zamiar (but not in canvas)
+- [ ] Alis Zamiar (but not in canvas)
 - [ ] Alton O'Neal
 - [ ] Chip Miller
 - [x] Cole DeMarco (but not in canvas)
@@ -102,3 +102,45 @@ We have a limited number of Single Sided PCB blanks left `TODO: Get current coun
 ----
 
 # Discussion
+## Fall Break
+- Closing at 3pm
+- Cole will adjust reserve.cuMaker.space
+- Cole will also adjust hours.cuMaker.space
+- Alis will take lead on sending an email through Sendgrid about Fall Break
+
+## Printer Status
+- Haven't heard back from Lulzbot
+- Izzy will call again today if we havne't gotten an emails
+
+## Trainings
+- Consider how we modify things and then work on retrainings?
+
+## Laser Cutter Lens & Mirror Cleaning
+- Lenses and Mirrors will be cleaned daily as part of closing
+
+## SDS
+Make sure that SDS are where the lab door sign says they are
+- Talk to Tim P about SDS so he is in the loop
+
+## Miscellany
+- Embroidery machine
+    - student either take it home or leave it on black table in space
+- Xbox Kinect
+    - We were going to use the old Cook PC
+        - Not good enough for the software
+    - Could use a Watt PC - not sure about license transferrability
+    - Nolan will speak with Mark Jensen to inquire about a Watt pc that might be available
+- Direct to Garment
+    - Cole DeMarco
+- Safety is of utmost importance
+- Commit to name badge
+- UPIC Site Visit
+- Keep track of objectives and accomplishments
+- Alis question - Formlabs
+    - Are there masks available for staff?
+        - Dust masks / surgical masks?
+    - Alis will pick something out on Amazon and email it to team
+- Garage door
+    - If there are smells, interns can lift it up a little bit
+    - Avoid use in rain
+    - Not an entrance into the space
