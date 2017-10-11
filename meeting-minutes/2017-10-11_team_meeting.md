@@ -40,3 +40,12 @@ Baja SAE's newest car is 82"L x 60"W and weighs 351 lbs with a full tank and no 
 ## UPIC Site Visit
 - Cancelled
     - Rescheduled to next Wednesday, Oct. 18th at 5pm 
+
+## SLA Printer Certification
+- [x] Alis Zamiar
+- [x] Alton O'Neal
+- [x] Chip Miller
+- [x] Cole DeMarco
+- [x] Izzy Gebhart
+- [x] Owen Phillips
+
