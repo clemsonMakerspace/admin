@@ -7,7 +7,7 @@
         - Cole emailed the two students who had laser reservations and told them we would be closed
     - Sometime between 8:10am and 8:41am the power came back on
     - As early as 8:41am students were waiting outside the Makerspace in order to cut
-    - Tim Pruett assisted a few students with using the space, and Cole arrived around 9:10am.
+    - Tim Pruett accidentally assisted a few students with using the space, and Cole arrived around 9:10am.
     - The computers were all off and apparently did not operate as expected
 - Should we send out mass closure notifications during special circumstances?
     - Possible options
@@ -15,6 +15,10 @@
         2. Canvas Announcement
         3. Text students with laser reservation who shared phone number on reserve.cuMaker.space
         4. Post a paper sign on the door
+            - Tim Pruett has volunteered to post signs in this situation
+
+
+
 
 ## Maintenance
 - We need to order more hotends for the TAM printers
@@ -43,7 +47,7 @@ Baja SAE's newest car is 82"L x 60"W and weighs 351 lbs with a full tank and no 
 
 ## UPIC Site Visit
 - Cancelled
-    - Rescheduled to next Wednesday, Oct. 18th at 5pm 
+    - Rescheduled to next Wednesday, Oct. 18th at 5pm
 
 ## SLA Printer Certification
 - [x] Alis Zamiar
@@ -53,7 +57,7 @@ Baja SAE's newest car is 82"L x 60"W and weighs 351 lbs with a full tank and no 
 - [x] Izzy Gebhart
 - [x] Owen Phillips
 
-- Good Job Guys
+- Good Job Guys!
 
 ## CNC Certification
 - [ ] Alis Zamiar
