@@ -38,3 +38,5 @@ Baja SAE's newest car is 82"L x 60"W and weighs 351 lbs with a full tank and no 
 - Cole needs to adjust reserve.cuMaker.space and hours.cuMaker.space by close of business today
 
 ## UPIC Site Visit
+- Cancelled
+    - Rescheduled to next Wednesday, Oct. 18th at 5pm 
