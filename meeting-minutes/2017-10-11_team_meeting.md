@@ -24,6 +24,9 @@
 - Izzy - 10310 the fan needs to be replaced, there should be a bunch in the Type A Core Supply Kits - Alis, Cole, or Owen should be able to demonstrate how to do it.
 - Owen - Mini-4 It looks like this printer failed to Auto Bed Level, and dragged the nozzle through the PEI sheet. Can someone take ownership of possibly sanding the sheet down or (most likely) replacing the entire sheet?
 
+## Lulzbot Cameras
+- All of the appropriate camera cables have arrived
+
 ## SDS
 - No updates from last week
 
