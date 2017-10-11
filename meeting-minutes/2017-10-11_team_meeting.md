@@ -26,6 +26,7 @@
 
 ## Lulzbot Cameras
 - All of the appropriate camera cables have arrived
+- Owen is trying to find bolts to hold the cameras to the railing
 
 ## SDS
 - No updates from last week
