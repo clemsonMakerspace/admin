@@ -49,3 +49,10 @@ Baja SAE's newest car is 82"L x 60"W and weighs 351 lbs with a full tank and no 
 - [x] Izzy Gebhart
 - [x] Owen Phillips
 
+## CNC Certification
+- [ ] Alis Zamiar
+- [x] Alton O'Neal (But not in Canvas)
+- [ ] Chip Miller
+- [x] Cole DeMarco
+- [x] Izzy Gebhart
+- [x] Owen Phillips
