@@ -16,17 +16,27 @@
         3. Text students with laser reservation who shared phone number on reserve.cuMaker.space
         4. Post a paper sign on the door
             - Tim Pruett has volunteered to post signs in this situation
+        - We chose the canvas announcement as the best option.
+            - Also have a poster to remind students to check canvas to any change in hours.
 
-
+-	Cole asked about a scenario that if power goes out at 8:00am and comes back on at 8:30, do we open back up from 8:30 to 9 or just close the whole morning and open back up at 3:30?
+    - Morning Shift wait 15 minutes to see if power comes back on power comes back on.
+    - Afternoon(s) shift wait 30 minutes to see if power comes back on.
+- If notified about class being cancelled from the University, don't go to work.
+- If power goes out at 4 and stays off for 30 minutes, that shift leaves. The 6pm shift needs to show up to at least check and see if power comes back on.
+    - Maybe email Tim Pruett and/or Blythe and ask him to check for us to save time.
+    - Or call front desk.
 
 
 ## Maintenance
 - We need to order more hotends for the TAM printers
     - Alis - 10306 is down after a hotend malfunctioned - possible issues with the electronics may have resulted
+    - Order new hotend (and maybe more for extras or the other printers).
 - Izzy - Mini-3 mount should arrive in the mail soon
 - Izzy - Mini-1 Need to follow-up with Lulzbot about - they want pictures of the machine
 - Izzy - 10310 the fan needs to be replaced, there should be a bunch in the Type A Core Supply Kits - Alis, Cole, or Owen should be able to demonstrate how to do it.
 - Owen - Mini-4 It looks like this printer failed to Auto Bed Level, and dragged the nozzle through the PEI sheet. Can someone take ownership of possibly sanding the sheet down or (most likely) replacing the entire sheet?
+    - An intern will replace the PEI Sheet. Sanding down not worth the time.
 
 ## Lulzbot Cameras
 - All of the appropriate camera cables have arrived
@@ -41,6 +51,7 @@ Baja SAE's newest car is 82"L x 60"W and weighs 351 lbs with a full tank and no 
 ## Fall Break
 - If no one is available to cover Owen's 8:30am - 9:30am shift on Friday the 13th we will need to close then
     - Cole mentioned he was a maybe, please confirm either way.
+        - Cole not availabe. We will be closed that hour in the morning.
 - Closing at 3pm on Friday the 13th
 - Alis & Izzy need to send email out about closing on Friday by close of business today
 - Cole needs to adjust reserve.cuMaker.space and hours.cuMaker.space by close of business today
@@ -48,6 +59,7 @@ Baja SAE's newest car is 82"L x 60"W and weighs 351 lbs with a full tank and no 
 ## UPIC Site Visit
 - Cancelled
     - Rescheduled to next Wednesday, Oct. 18th at 5pm
+- Chip -- Make new alertbot reminder for the visit next week.
 
 ## SLA Printer Certification
 - [x] Alis Zamiar
@@ -66,3 +78,22 @@ Baja SAE's newest car is 82"L x 60"W and weighs 351 lbs with a full tank and no 
 - [x] Cole DeMarco
 - [x] Izzy Gebhart
 - [x] Owen Phillips
+
+## Miscellaneous Notes
+- Dr. Todd
+    - On Oct. 22, Dr. Todd is bringing someone by the Makerspace. Make it look nice! Clean up!
+    - Working on sign for us.
+    - Getting the vinyl cutter working.
+        - Coming to the Makerspace soon
+        - Has a tutorial set up for it.
+        - Where is it going in the Space?
+        - Coming in after Fall Break
+        - He is assigning embroidery machine for the CI to work on.  
+- Maybe add a Canvas module for tips about laser cutting.
+    - Autocad to AI
+    - How to use AI
+        - Defer student to Cooper Library Adobe Suite.
+- For moving the embroidery machine, be strong, have students ask an intern to move it.
+- Get a cubby system (the one from Cook?) for the finished parts to put under the print logging TV.
+      - Then students know where to go for their printed parts.
+      - Can also put Space materials in there for organization.
