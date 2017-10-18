@@ -4,8 +4,11 @@
 ###### Dr. Todd
 1. Does the Makerspace own a ladder?
     1. Do students use a ladder?
+      - No
         1. Are students trained on ladder safety?
+          - No, but they don't use them and aren't allowed to use it.  
     2. Do students improperly stand on things?
+      - No
 
 ## Eyeglasses when removing parts
 ###### Alis
@@ -13,6 +16,7 @@
 
 At the end of the semester - current policies should be in an operations manual
 - Dr. Todd
+- Cole's got that
 
 ## Vending
 - The vending machine is here
