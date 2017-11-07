@@ -15,7 +15,7 @@ How do we measure impact?
 
 ## Space Maintenance
 Consider adding to maintenance list
-    - Empty water bucket from dehumidifier when red light is lit.
-        - Located in the corner by the Type A's
+- Empty water bucket from dehumidifier when red light is lit.
+  - Located in the corner by the Type A's
 
 ##
