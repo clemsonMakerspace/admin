@@ -62,3 +62,9 @@ Consider adding to maintenance list
 ## Parts Log
 - How do we hold students accountable for logging parts?
 - Compared to last year, we have a ton of unlogged parts or incomplete logs.
+
+## Incident Reporting
+- Nice catch, Tiger! App (Dr. Todd)
+
+## Celebration!
+- Makerspace Celebratory meal at Dr. Todd's home
