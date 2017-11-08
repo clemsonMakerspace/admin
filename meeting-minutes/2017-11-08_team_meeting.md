@@ -10,6 +10,9 @@ $282.35 sold as of 6:43 P.M. 11/07
   - If any problems arise related to the vending machine, notify Kyle.
   - His number will soon be on the machine as the number to call for assistance.
 
+## DTG Procurement Update
+- Update from Cole
+
 ## Impact
 How do we measure impact?
     - Survey students - video / voice / word doc / Instagram
@@ -34,6 +37,7 @@ Consider adding to maintenance list
     - Sheet of paper and pencil in each cabinet containing filament and simply mark when you took a box?
       - Then someone be accountable for looking at those sheets each day/week and log them in the Drive
     - Just be accountable for marking it in the Google Drive inventory sheet when you take a box? (Show my example)
+    - QR or NFC code on each box or in the cabinets that links you to the drive?
 - Laser Cutter filter inventory conducted 10/27
   - Pre-filters: 0
   - HEPA filter: 1
@@ -41,7 +45,6 @@ Consider adding to maintenance list
   - Duct tape: last roll
     - Any filters/duct tape ordered?
       - If not, how do we go about doing this?
-
 
 ## Hour Requirement
 - 160 minimum hours
