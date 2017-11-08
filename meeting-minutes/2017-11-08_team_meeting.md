@@ -3,6 +3,7 @@
 ## Vending Machine Updates
 $282.35 sold as of 6:43 P.M. 11/07
 - Thanks Izzy and Kyle for tracking that.
+- Are we meeting our minimum amount to keep machine?
 
 ## Key 84
 - Kyle now has responsibility over the vending machine.
@@ -50,7 +51,7 @@ Consider adding to maintenance list
   - Chip: 125 hours
   - Alis:
   - Izzy:
-  - Alton:
+  - Alton: 104 hours
 
 ## Parts Log
 - How do we hold students accountable for logging parts?
