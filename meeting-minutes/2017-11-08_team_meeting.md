@@ -33,6 +33,14 @@ Consider adding to maintenance list
     - Sheet of paper and pencil in each cabinet containing filament and simply mark when you took a box?
       - Then someone be accountable for looking at those sheets each day/week and log them in the Drive
     - Just be accountable for marking it in the Google Drive inventory sheet when you take a box? (Show my example)
+- Laser Cutter filter inventory conducted 10/27
+  - Pre-filters: 0
+  - HEPA filter: 1
+  - Gas filter: 1
+  - Duct tape: last roll
+    - Any filters/duct tape ordered?
+      - If not, how do we go about doing this?
+
 
 ## Hour Requirement
 - 160 minimum hours
@@ -43,7 +51,7 @@ Consider adding to maintenance list
   - Alis:
   - Izzy:
   - Alton:
-  
+
 ## Parts Log
 - How do we hold students accountable for logging parts?
 - Compared to last year, we have a ton of unlogged parts or incomplete logs.
