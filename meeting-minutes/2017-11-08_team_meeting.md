@@ -56,12 +56,16 @@ Consider adding to maintenance list
 | Cole   |       |
 | Chip   | 125   |
 | Alis   |       |
-| Izzy   |       |
+| Izzy   | 117   |
 | Alton  | 104   |
 
 ## Parts Log
 - How do we hold students accountable for logging parts?
 - Compared to last year, we have a ton of unlogged parts or incomplete logs.
+
+## Laser Cutter Reservations
+- Cole suggested adding a notification to the reservation page to tell students to have their files completed before coming in for their time.
+  - Or come half hour early to prepare your file.
 
 ## Incident Reporting
 - Nice catch, Tiger! App (Dr. Todd)
