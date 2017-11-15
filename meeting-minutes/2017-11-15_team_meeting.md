@@ -1,6 +1,6 @@
 # Agenda
 
-## Vending Machine Updates (15 Seconds)
+## Vending Machine Updates ( <1 minute)
 $551.78 sold as of 7:15 P.M. 11/14
 - Thanks Izzy and Kyle for tracking that.
 
@@ -13,7 +13,7 @@ $551.78 sold as of 7:15 P.M. 11/14
     - Staff meeting moved to 11-20 (Monday) instead of that Wednesday because of the Holidays.
       - Alis organize the time and room for that Staff meeting. Have done by 11-15 at beginning of staff meeting.
 
-## Impact (10 minutes)
+## Impact (8 minutes)
 How do we measure impact?
 - Survey students - video / voice / word doc / Instagram
   - Mass email survey
@@ -22,7 +22,7 @@ How do we measure impact?
     - Send out around the week of Makerday (November 30th)
     - Discuss next meeting
 
-## Inventory (9 minutes)
+## Inventory (7 minutes)
 - Filament inventory system is now up to date
   - Please keep it updated! Very important for ITSAB funding for next year.
   - C.I. can work on better more long term system next semester possibly?
@@ -46,6 +46,10 @@ How do we measure impact?
   - Consider adding a notification for laser cutter system letting us know it's their first time cutting for certification
     - Alton: Research a way to do this by 11-15-17
 
+## Laser Cutter maintenance (7 minutes)
+- Review Laser Cutter lens cleaning schedule
+  - Specifically during times of poor filter status
+  
 ## CAD to 3D printing lab (3 minutes)
 - I have emailed Tony, no response
 - Alis still ok to cover tomorrow?
@@ -57,7 +61,7 @@ How do we measure impact?
 - Discuss next meeting
   - Izzy: Do a little report on this app and present to the group (Dr. Todd has more info)
 
-## Celebration! (3 minutes)
+## Celebration! (2 minutes)
 - Makerspace Celebratory meal at Dr. Todd's home
 - Food at Dr. Todd's!
   - Should have received email from Dr. Todd about times and availability. Complete this poll as soon as possible for Dr. Todd.
