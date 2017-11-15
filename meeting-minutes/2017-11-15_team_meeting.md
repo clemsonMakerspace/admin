@@ -13,7 +13,7 @@ $551.78 sold as of 7:15 P.M. 11/14
     - Staff meeting moved to 11-20 (Monday) instead of that Wednesday because of the Holidays.
       - Alis organize the time and room for that Staff meeting. Have done by 11-15 at beginning of staff meeting.
 
-## Impact (13 minutes)
+## Impact (10 minutes)
 How do we measure impact?
 - Survey students - video / voice / word doc / Instagram
   - Mass email survey
@@ -38,7 +38,7 @@ How do we measure impact?
     - Alton: Look into this (Or Alis)
 - Interns: keep printer status up to date.
 
-## Laser Cutter Reservations (10 minutes)
+## Laser Cutter Reservations (8 minutes)
 - Cole suggested adding a notification to the reservation page to tell students to have their files completed before coming in for their time.
   - Or come half hour early to prepare your file.
 - It is already on the page
@@ -46,12 +46,12 @@ How do we measure impact?
   - Consider adding a notification for laser cutter system letting us know it's their first time cutting for certification
     - Alton: Research a way to do this by 11-15-17
 
-## CAD to 3D printing lab (5 minutes)
+## CAD to 3D printing lab (3 minutes)
 - I have emailed Tony, no response
 - Alis still ok to cover tomorrow?
   - What hours will you be there?
 
-## Incident Reporting (15 minutes)
+## Incident Reporting (12 minutes)
 - Nice catch, Tiger! App (Dr. Todd)
 - Reporting incidents through an app on iPhone
 - Discuss next meeting
