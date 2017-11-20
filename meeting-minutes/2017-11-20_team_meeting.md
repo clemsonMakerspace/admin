@@ -10,7 +10,7 @@ DTG Procurement Update (5 minutes)
   
   
 Current Hours (2 minutes)
-  - Cole:   
+  - Cole:   128
   - Chip:   143.75 
   - Izzy:   132.42
   - Alis:   135.58
