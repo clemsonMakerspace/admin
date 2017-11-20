@@ -14,7 +14,7 @@ Current Hours (2 minutes)
   - Chip:   143.75 
   - Izzy:   132.42
   - Alis:   135.58
-  - Alton:  
+  - Alton:  135
   - Owen:   146
   
   
@@ -25,10 +25,10 @@ Staffing for rest of semester (8 minutes)
 Impact (8 minutes)
  - Update from Alton: Email students when they sign/reserve time to please fill out We the Tigers.
  - Update from Izzy: Mass email survey
-    - Extra time on the laser / 3D printer / ???
-    - Send out around the week of Makerday (Thursday, November 30th)
-    - Make a Google Form
-    - Write a little paragraph about it
+    -  Extra time on the laser / 3D printer / ???
+    -  Send out around the week of Makerday (Thursday, November 30th)
+    -  Make a Google Form
+    -  Write a little paragraph about it
     
     
 REMINDERS (10 minutes)
@@ -39,6 +39,7 @@ Filament
   - Need filter space in cabinets. Has this been obtained (Owen or Chip)?
 Thanksgiving Break
   - Closing Tomorrow Early at 6:00 PM
+  - Make sure this is reflected on hours.cumaker.space
 Celebration! 
   - Makerspace Celebratory meal at Dr. Todd's home
   - 6 pm December 1st
@@ -58,7 +59,7 @@ Parts Log (5 minutes)
   - Any new ideas? Anyone do any research into options? (Alton or Alis)
   - Bold or highlight or add pictures of screen on Canvas printing training.
   - Tag students and send an email and say "log your parts"
-   - Next Spring, see if C.I. can set up a system to track unlogged prints through Octoprint.
+    - Next Spring, see if C.I. can set up a system to track unlogged prints through Octoprint.
   
   
 Laser Cutter Reservations (8 minutes)
@@ -66,7 +67,7 @@ Laser Cutter Reservations (8 minutes)
   - It is already on the page Can we make it bigger?
   - Consider adding a notification for laser cutter system letting us know it's their first time cutting for certification
   - Update from Alton: Add notification on reservation emails to tell first timers to come in early.
-   - CI project for uniform training from the interns? (Ask Nolan) 
+     - CI project for uniform training from the interns? (Ask Nolan) 
 
 
 Incident Reporting (2 minutes)
