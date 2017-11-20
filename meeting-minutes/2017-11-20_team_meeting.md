@@ -18,8 +18,13 @@ Current Hours (2 minutes)
   - Owen:   146
   
   
-Staffing for rest of semester (8 minutes)
+Staffing for rest of semester (5 minutes)
   - Who needs more hours? Is everyone on track? 
+  
+
+Printer Malfunction (4 minutes) 
+  - Type A printers sound like the are skipping when the layer shift occurs
+  - Who is debugging this? Status? 
   
 
 Impact (8 minutes)
