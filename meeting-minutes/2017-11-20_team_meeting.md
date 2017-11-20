@@ -32,22 +32,22 @@ Impact (8 minutes)
     
     
 REMINDERS (10 minutes)
-Filament
-  - Please keep Filament inventory updated! Very important for ITSAB funding for next year.
-  - C.I. can work on better more long term system next semester possibly? (Ask Nolan)
-  - QR or NFC tracking
-  - Need filter space in cabinets. Has this been obtained (Owen or Chip)?
-Thanksgiving Break
-  - Closing Tomorrow Early at 6:00 PM
-  - Make sure this is reflected on hours.cumaker.space
-Celebration! 
-  - Makerspace Celebratory meal at Dr. Todd's home
-  - 6 pm December 1st
-Interns: 
-  - Keep printer status up to date.
-Laser Cutter maintenance 
-  - Clean lens every 2-3 hours when filters are really bad.
-  - On the regular, clean every night
+- Filament
+  -  Please keep Filament inventory updated! Very important for ITSAB funding for next year.
+  -  C.I. can work on better more long term system next semester possibly? (Ask Nolan)
+  -  QR or NFC tracking
+  -  Need filter space in cabinets. Has this been obtained (Owen or Chip)?
+- Thanksgiving Break
+  -  Closing Tomorrow Early at 6:00 PM
+  -  Make sure this is reflected on hours.cumaker.space
+- Celebration! 
+  -  Makerspace Celebratory meal at Dr. Todd's home
+  -  6 pm December 1st
+- Interns: 
+  -  Keep printer status up to date.
+- Laser Cutter maintenance 
+  -  Clean lens every 2-3 hours when filters are really bad.
+  -  On the regular, clean every night
 
 
 Hendrix Makerspace Proposal Petition (5 minutes)
