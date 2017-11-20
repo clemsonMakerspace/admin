@@ -63,9 +63,9 @@ Hendrix Makerspace Proposal Petition (5 minutes)
 Parts Log (5 minutes)
   - How do we hold students accountable for logging parts?
   - Any new ideas? Anyone do any research into options? (Alton or Alis)
-  - Bold or highlight or add pictures of screen on Canvas printing training.
-  - Tag students and send an email and say "log your parts"
-        -   Next Spring, see if C.I. can set up a system to track unlogged prints through Octoprint.
+  -  Bold or highlight or add pictures of screen on Canvas printing training.
+   -  Tag students and send an email and say "log your parts"
+       -   Next Spring, see if C.I. can set up a system to track unlogged prints through Octoprint.
   
   
 Laser Cutter Reservations (8 minutes)
@@ -73,7 +73,7 @@ Laser Cutter Reservations (8 minutes)
   - It is already on the page Can we make it bigger?
   - Consider adding a notification for laser cutter system letting us know it's their first time cutting for certification
   - Update from Alton: Add notification on reservation emails to tell first timers to come in early.
-        -   CI project for uniform training from the interns? (Ask Nolan) 
+       -   CI project for uniform training from the interns? (Ask Nolan) 
 
 
 Incident Reporting (2 minutes)
