@@ -1,6 +1,6 @@
 # Agenda
 
-## Vending Machine Updates (15 minutes)
+## Vending Machine Updates (13 minutes)
   - $551.78 sold as of 7:15 P.M. 11/14
       -  breaking things up per month to see if goals were reached
       -  Chip is working on modifying
@@ -43,6 +43,10 @@
      -  allows interns to focus on projects and improving the space rather than everyday maintenance.
      -  need written commitment
      -  hopefully implemented next semester
+   - Who is leading the new intern hiring process?
+    - What is the timeline?
+    - Who makes the selection?
+    - What criteria do we have for the selection process?
 
 
 ## Printer Malfunction (8 minutes)
@@ -69,7 +73,7 @@
        -   How many people have been using the space and what their majors are?
 
 
-## Hendrix Makerspace Proposal Petition (5 minutes)
+## Hendrix Makerspace Proposal Petition (3 minutes)
   - Update from Owen: any news on progress/ outcome? How can the staff support?
 
 
@@ -86,7 +90,7 @@
             -   Working on implementation
 
 
-## Laser Cutter Reservations (6 minutes)
+## Laser Cutter Reservations (3 minutes)
   - Cole suggested adding a notification to the reservation page to tell students to have their files completed before coming in for their time or come half hour early to prepare your file.
   - It is already on the page / Can we make it bigger?
   - Consider adding a notification for laser cutter system letting us know it's their first time cutting for certification
@@ -108,6 +112,10 @@
        - Laser Cutter maintenance
          -  Clean lens every 2-3 hours when filters are really bad.
          -  On the regular, clean every night
+
+
+## Dr. Todd (5 minutes)
+- Water jets in the future?
 
 
 ## Celebration (<1 minute)
