@@ -96,8 +96,8 @@
        -   Have headphones for the videos online / careful this might effect safety
 
 ## Reminders (4 minutes)
-     - Filament
-       -  Please keep Filament inventory fully updated! Very important for ITSAB funding for next year.
+  - Filament
+    -  Please keep Filament inventory fully updated! Very important for ITSAB funding for next year.
        -  QR or NFC tracking
            -  Objective and project manager
        -  Need filter space in cabinets. Has this been obtained (Owen or Chip)?
@@ -111,5 +111,5 @@
 
 
 ## Celebration (<1 minute)
-       -  Makerspace Celebratory meal at Dr. Todd's home
-          - 6 pm December 1st
+   -  Makerspace Celebratory meal at Dr. Todd's home
+      - 6 pm December 1st
