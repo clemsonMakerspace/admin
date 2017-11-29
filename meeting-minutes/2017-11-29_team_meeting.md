@@ -20,6 +20,9 @@
           - Each intern have one of the keys (A or B)
           - For example: Cole and I work together most days. He would have key A and I would have key B.
           - Whenever there would be an incident, chances are high he and I would be on campus/working to retrieve part.
+          - Meeting suggestion: Can't have the two interns working leave the space. Have the Watt security Guard (or Tim) have key "B" and we all have key "A". He can be the other person to verify the transaction and fix.
+          - Izzy - Find a way to get more "A" keys
+      - Close vending machine after finals for the 2.5 weeks that Watt is open that interns aren't present.
 
 
 ## DTG Procurement Update (5 minutes)
@@ -27,11 +30,15 @@
       -  sample from Epson and Melco
       -  still looking for two other venders currently in process
       -  By next meeting have more information and two more venders
+      - Leaning towards Epson F2000 ($22k)
+      - Have the DTG limited to students to a couple of uses so they aren't making club shirts.
+      - Consider best value bid. Request that we need to see local references of the machine working.
+      - Get done ASAP. Deadline to start printing: Spring Break
 
 
 ## Morning shift limiting early prints (2 minutes)
 - Implement for the last week this semester
-- Alis = send out an email about this change
+- Alis - send out an email about this change
 
 
 ## Staffing for next semester (4 minutes)
@@ -47,6 +54,13 @@
     - What is the timeline?
     - Who makes the selection?
     - What criteria do we have for the selection process?
+      - How many interns are we hiring?
+        - 3 interns out of 20 candidates
+          - Owen picks, sends 3 to Tim
+      - All of us - Leave comments by each candidate on excel sheet by Monday, December 4th.
+        - Owen - Set up this sheet
+      - Work on system to set up interns to help the new people
+        - Have volunteer (CI) people set up to possibly do this.
 
 
 ## Printer Malfunction (8 minutes)
@@ -116,6 +130,7 @@
 
 ## Dr. Todd (5 minutes)
 - Water jets in the future?
+  - $20k for 12" x 12"
 
 
 ## Celebration (<1 minute)
