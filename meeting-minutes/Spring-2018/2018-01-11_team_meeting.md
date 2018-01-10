@@ -17,3 +17,12 @@
 ## Training Matrix
 - Have all new interns completed training matrix?
   - Peter: See Chip about catching up with training and safety by the end of Tuesday, January 16th.
+
+## Purchases
+- Need to look into buying much needed items for the space before opening or as soon as possible
+  - New scale for weighing parts (preferably with a plug)
+  - Powerstrip(s) for tables
+  - Filament
+  - Duct Tape for taping pre-filters
+  - Shop Towels for Tim's room
+  - Bowden Tube for mini's
