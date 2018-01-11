@@ -21,7 +21,7 @@
 ## Creative Inquiry (8 minutes)
 
 
-## Purchases (17 minutes)
+## Purchases (15 minutes)
 - Need to look into buying much needed items for the space before opening or as soon as possible
   - New scale for weighing parts (preferably with a plug)
   - Powerstrip(s) for tables
@@ -30,3 +30,7 @@
   - Shop Towels for Tim's room
   - Bowden Tube for mini's
   - Step stool to reach top row of mini's
+
+## Timesheet (Very briefly)
+- Need an intern to set up a Timebot to alert us when timesheets are due this semester.
+  - First timesheet due Tuesday
