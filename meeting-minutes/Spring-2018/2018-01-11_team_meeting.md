@@ -29,3 +29,4 @@
   - Duct Tape for taping pre-filters
   - Shop Towels for Tim's room
   - Bowden Tube for mini's
+  - Step stool to reach top row of mini's
