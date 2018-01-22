@@ -11,7 +11,7 @@
 
 ## Purchases (15 minutes)
 - Step stool to reach top row of mini's
-    - Yan-Jing: contact Dr. Todd about his donation of a step stool
+    - Yan-Jing: contact Dr. Todd about his recommendation of a step stool that we will purchase
   - Keys ($25 for 2, $50 for 4)
     - Izzy: Call about getting 2 A keys and 2 B keys and look into code box for locking the A keys. Update us next meeting.
 - Andrew: working on new inventory system. Go to him for suggestions.
