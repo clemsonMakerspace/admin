@@ -5,7 +5,7 @@
   - Need to be certified as soon as possible.
 
 
-## Creative Inquiry (10 minutes)
+## Creative Inquiry (15 minutes)
 - Webpage overview
 
 
@@ -22,3 +22,4 @@
 - Be careful not to go over hours each week.
   - 12 hours a week average
   - Follow the schedule; You will be right on track if you do.
+  - You cannot work finals week this semester, so do not rely on that week to catch up on hours.
