@@ -36,3 +36,9 @@
   - 12 hours a week average
   - Follow the schedule; You will be right on track if you do.
   - You cannot work finals week this semester, so do not rely on that week to catch up on hours.
+  
+## Name Badges
+- [ ] Decide whether or not to order updates for returning staff
+- [ ] Decide whether or not to order badges for non-staff officers
+  - Normal pricing is $7 per badge - 6 or more are priced at $5.50
+- [ ] Proof [Names and Titles](/assets/2018-01-23_Name_Badge_Draft_Order.pdf)
