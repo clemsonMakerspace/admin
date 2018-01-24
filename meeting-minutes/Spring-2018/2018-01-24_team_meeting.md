@@ -4,10 +4,8 @@
 - Everyone has everything completed except the Othermill training.
   - Need to be certified as soon as possible.
 
-
 ## Creative Inquiry (15 minutes)
 - Webpage overview
-
 
 ## Purchases (15 minutes)
 - Step stool to reach top row of mini's
@@ -28,17 +26,18 @@
   - A poll?
 - Do we need to get more lockers for storage space for the filament?
   - Where is the list of lockers we have?
-    Google Drive inventory sheet.
+    - Google Drive inventory sheet.
 
+## Social Media (5 minutes)
+
+## Name Badges
+- [ ] Decide whether or not to order updates for returning staff
+- [ ] Decide whether or not to order badges for non-staff officers
+  - Normal pricing is $7 per badge - 6 or more are priced at $5.50
+- [ ] Proof [Names and Titles](/assets/2018-01-23_Name_Badge_Draft_Order.pdf)
 
 ## Timesheet (Very briefly)
 - Be careful not to go over hours each week.
   - 12 hours a week average
   - Follow the schedule; You will be right on track if you do.
   - You cannot work finals week this semester, so do not rely on that week to catch up on hours.
-  
-## Name Badges
-- [ ] Decide whether or not to order updates for returning staff
-- [ ] Decide whether or not to order badges for non-staff officers
-  - Normal pricing is $7 per badge - 6 or more are priced at $5.50
-- [ ] Proof [Names and Titles](/assets/2018-01-23_Name_Badge_Draft_Order.pdf)
