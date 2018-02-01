@@ -1,21 +1,25 @@
 # Agenda
 
+## Timesheets (0 minutes)
+- Make sure you sent in your timesheet
+
 ## Training matrix (5 minutes)
 - Everyone has everything completed except the Othermill training.
-  - Need to be certified as soon as possible (2018-02-07).
-    - Yan-Jing: Help new interns that haven't completed the hands on training.
+- Need to be certified by 2018-02-07 at the ABSOLUTE latest.
+- Yan-Jing: Help new interns that haven't completed the hands on training.
 
 ## Purchases (8 minutes)
 - Key lock box to store an A and B key. See:
 https://www.amazon.com/ORIA-Storage-4-Digit-Combination-Resettable/dp/B073RXZNKK/ref=sr_1_1_sspa?ie=UTF8&qid=1517413412&sr=8-1-spons&keywords=key+lock+box&psc=1&smid=A2FOADTO08BQD0
 - Windows Tablet with dongle for ethernet connection for 3ft ethernet cable.
   - Where are we on having this tablet functioning for the interns?
-    - Owen:
+    - (Owen: Look to nolan for updates. btw 3 feet is obnoxiously short. Minimum 6 foot. Recommend 10-12ft.)
 
 ## Nursing project (7 minutes)
 - Nolan:
   - How many clips are we printing?
   - Timeline?
+ - (Owen: Not clear to me what it means that we are printing clips?)
 
 ## Bulk Filament Order (5 minutes)
 - Order eSun when it comes time.
@@ -25,9 +29,16 @@ https://www.amazon.com/ORIA-Storage-4-Digit-Combination-Resettable/dp/B073RXZNKK
 - Yan-Jing: Determine how many lockers we have (1-3, 12, 16-18) and ask for more lockers. Update by 2018-02-01.
 
 ## Name Badges (2 minutes)
-- Have the name badges been ordered?
+- Name badge's have not been ordered. Waiting on final proofing of names from the interns.
+- [ ] Proof [Names and Titles](/assets/2018-01-23_Name_Badge_Draft_Order.pdf)
 
 ## Dr. Todd's request (8 minutes)
 
 ## Checkout Policy (10 minutes)
-- What is our current policy?
+- http://reserve.cumaker.space/schedule/clemson_makerspace/misc
+- DO NOT LET PEOPLE BORROW STUFF WITHOUT A RESERVATION OR CHECKING WITH CHIP || OWEN
+- If you have checked with Chip || Owen and gotten approval for a non-reservable thing then make sure the student sends an email to YOU, and MAKERSPACE@CLEMSON.EDU with the following
+    1. List of what they're borrowing
+    2. Picture of EVERYTHING they're borrowing
+    3. When they will return it
+- Please take notes on questions / concerns and direct them to Owen
