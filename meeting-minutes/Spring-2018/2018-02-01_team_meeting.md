@@ -2,7 +2,7 @@
 
 ## Training matrix (5 minutes)
 - Everyone has everything completed except the Othermill training.
-  - Need to be certified as soon as possible.
+  - Need to be certified as soon as possible (2018-02-07).
     - Yan-Jing: Help new interns that haven't completed the hands on training.
 
 ## Purchases (8 minutes)
