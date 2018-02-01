@@ -36,6 +36,7 @@ https://www.amazon.com/ORIA-Storage-4-Digit-Combination-Resettable/dp/B073RXZNKK
 
 ## Checkout Policy (10 minutes)
 - http://reserve.cumaker.space/schedule/clemson_makerspace/misc
+- Make sure that all the previous times the button maker have been checked out are notated on the calendar
 - DO NOT LET PEOPLE BORROW STUFF WITHOUT A RESERVATION OR CHECKING WITH CHIP || OWEN
 - If you have checked with Chip || Owen and gotten approval for a non-reservable thing then make sure the student sends an email to YOU, and MAKERSPACE@CLEMSON.EDU with the following
     1. List of what they're borrowing
