@@ -6,6 +6,10 @@
 - TODO: FILL OUT
 - Chip Miller
 - Owen
+- Audra
+- Izzy
+- Andrew
+- Kyle
 
 
 -----
