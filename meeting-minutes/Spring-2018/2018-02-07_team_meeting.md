@@ -20,10 +20,8 @@ ASC Room 234
   - A poll?
     - Izzy: Send out a survey on a mass email to students with a link to a survey. Get a list of colors we can get from eSun.
 
-### Name Badges (2 minutes)
+### Name Badges (0 minutes)
 - Name badge's have been ordered.
-
-### Dr. Todd's request (8 minutes)
 
 ### Checkout Policy (10 minutes)
 - http://reserve.cumaker.space/schedule/clemson_makerspace/misc
@@ -36,5 +34,5 @@ ASC Room 234
   - That intern that receives the email from the student, forward to all of the other interns.
 - Please take notes on questions / concerns and direct them to Owen
 
-#### Button maker
+#### Button maker (5 minutes)
 - Alton: Set up system on reserve.cumaker.space to prompt students to register how many buttons they need. Set up a system to charge them shekels per X number of buttons. Make it a number that easily fit in bag or box that we have plenty of.
