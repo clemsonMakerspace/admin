@@ -31,14 +31,9 @@ ASC Room 234
 ### Incident de-incentivizing (10 minutes)
 - How can we de-incentivize students from going to the bathroom after an incident to clean up?
 
-### Minor Injuries Response
--
 
-### Inventory
+### Inventory (15 minutes)
 - Demo from Andrew
-
-
-
 
 
 ## Highest Priorities for the space (Ranked in Highest to lowest)
