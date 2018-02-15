@@ -11,7 +11,7 @@ ASC Room 234
 
 
 -----
-### Reservation system (5 minutes)
+### Reservation system (15 minutes)
 - How to act on behalf of a user:
   1. Go to reserve.cumaker.space
   2. Click on "supervise"
@@ -19,18 +19,23 @@ ASC Room 234
   4. Blue arrow on the far right on the same row as their name.
   5. Now make the reservation as if you were doing it for yourself.
     - MAKE SURE to stop acting on their behalf after you finish!
+      - Top right, click on their name and it will notify you that you stopped acting on their behalf.
+- Interns: Make sure that the name of the student matches the email used to make the reservation.
+  - There have been a few instances this past week of this not being the case. We need to make sure it stops.
+    - This is VERY important for our statistics to receive funding
+      - Same thing for the print log
 
 ### Button maker (5 minutes)
 - Alton: Set up system on reserve.cumaker.space to prompt students to register how many buttons they need. Set up a system to charge them shekels per X number of buttons. Make it a number that easily fit in bag or box that we have plenty of.
 
-### Incidents de-incentivizing
+### Incident de-incentivizing (10 minutes)
+- How can we de-incentivize students from going to the bathroom after an incident to clean up?
 
+### Minor Injuries Response
+-
 
 ### Inventory
-
-
-
-
+- Demo from Andrew
 
 
 
