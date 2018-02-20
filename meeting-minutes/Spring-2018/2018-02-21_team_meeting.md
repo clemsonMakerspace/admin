@@ -11,7 +11,6 @@ ASC Room 234
   - Andrew
   - Yan-Jing
   - Dr. Todd
-  - Chip
 
 
 -----
