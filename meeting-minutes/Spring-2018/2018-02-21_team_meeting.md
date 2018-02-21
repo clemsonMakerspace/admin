@@ -30,9 +30,15 @@ ASC Room 234
 - Interns need to keep up with taking pictures of cool creations made in the Space for our social media accounts and the Makerspace Website.
   - Would a short Google form for interns to fill out when they see something cool help?
 
+### Maintenance
+- All interns: Check Lulzbot wipers when you come in and flip the pads if need be or replace.
+  - Alton: Write up a procedure on how to do this.
+- We need an intern to set up a procedure to compare filaments. We have had several different vendors contact us about filament.
+  - Create a series of files to print to compare between filaments. 
+
 ### New Team Meeting (briefly)
 - From this day on, all staff meetings will be Tuesday evenings from 8:30pm-9:30pm in Watt room ______.
-- Remember that attendance at the staff meetings is a condition of your employment/appointment in leadership positions in the space. This change will make it easier for us to collaborate. 
+- Remember that attendance at the staff meetings is a condition of your employment/appointment in leadership positions in the space. This change will make it easier for us to collaborate.
 
 ## Highest Priorities for the space (Ranked in Highest to lowest)
 1. Safety
