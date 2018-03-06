@@ -1,7 +1,7 @@
 # Agenda Officer Meeting
-2018 - 03 - 05
-5:00 pm - 6:00 pm
-Watt 209
+2018 - 03 - 05  
+5:00 pm - 6:00 pm  
+Watt 209  
 
 # Attendees
  - Chip Miller
