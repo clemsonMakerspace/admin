@@ -47,11 +47,15 @@ Watt 209
   - How can we set high standard in RSO financial record-keeping and reporting
   - Kyle
     - Does the Student Organization Financial Audit email pertain to us?
+      - From TigerQuest
+      - No policy for organizations with only internal funding
     - What is our plan for compliance?
+      - Upload accounts to TigerQuest 
+        - Reconciliation document upload after completion to TigerQuest
 
 ### Are we spending funds responsibly? (2 minutes)
   - Yes.
-  - We know this through our budget reconsiliation
+  - We know this through our budget reconciliation
 
 ### Are We following university policy? (2 minutes)
   - Yes. 
